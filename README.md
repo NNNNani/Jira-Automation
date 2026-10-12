@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Jira Workshop
+# 🚀 Jira Automation
 ### *From ticket to "Done" without touching the status dropdown*
 
 **Jira tracks the work. GitHub builds the thing. Automation keeps them honest.**
